@@ -3,4 +3,4 @@ this is a second line;
 this is a third line;
 this is a fourth line;
 
-a quick brown cat jumps over the lazy dog;
+a quick brown chicken jumps over the lazy dog;
