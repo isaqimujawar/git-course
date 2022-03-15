@@ -4,3 +4,5 @@ this is a third line;
 this is a fourth line;
 
 a quick brown chicken jumps over the lazy dog;
+
+logger changes go here;
